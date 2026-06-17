@@ -102,7 +102,6 @@ lms-back/
 │
 ├── docs/
 │   ├── swagger.js               # OpenAPI spec
-│   └── API_Test_Sheet.xlsx      # Postman/Mongo testing reference
 │
 ├── middlewares/
 │   ├── auth.middleware.js       # JWT verify → req.user
