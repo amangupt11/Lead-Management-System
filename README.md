@@ -15,20 +15,6 @@ Built as the Urban Cruise interview project. Designed to run end-to-end **withou
 5. [Prerequisites](#prerequisites)
 6. [Installation](#installation)
 7. [Environment Variables](#environment-variables)
-8. [Running the App](#running-the-app)
-9. [Seeding the Database](#seeding-the-database)
-10. [API Reference](#api-reference)
-11. [Authentication & Roles](#authentication--roles)
-12. [Integration Layer (Dummy vs Live)](#integration-layer-dummy-vs-live)
-13. [Webhooks](#webhooks)
-14. [Cron Jobs](#cron-jobs)
-15. [Notifications](#notifications)
-16. [Reports](#reports)
-17. [Analytics](#analytics)
-18. [Database Schema](#database-schema)
-19. [Testing the API](#testing-the-api)
-20. [Switching to Live Mode](#switching-to-live-mode)
-21. [Troubleshooting](#troubleshooting)
 
 ---
 
@@ -221,9 +207,3 @@ npm run dev      # development with nodemon
 npm start        # production
 npm run seed     # seed admin + sample leads
 ```
-
----
-
-## License
-
-ISC — interview project, free to fork.
