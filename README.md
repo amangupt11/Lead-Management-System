@@ -14,7 +14,7 @@ Built as the Urban Cruise interview project. Designed to run end-to-end **withou
 4. [Project Structure](#project-structure)
 5. [Prerequisites](#prerequisites)
 6. [Installation](#installation)
-7. [Environment Variables](#environment-variables)
+7. [Scripts](#Scripts)
 
 ---
 
