@@ -102,7 +102,6 @@ lms-back/
 │
 ├── docs/
 │   ├── swagger.js               # OpenAPI spec
-│   ├── generate-api-sheet.js    # Builds API_Test_Sheet.xlsx
 │   └── API_Test_Sheet.xlsx      # Postman/Mongo testing reference
 │
 ├── middlewares/
