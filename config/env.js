@@ -41,5 +41,5 @@ module.exports = {
     website: process.env.WEBHOOK_WEBSITE_SECRET,
   },
 
-  FCM_SERVER_KEY: process.env.FCM_SERVER_KEY,
+  GOOGLE_APPLICATION_CREDENTIALS: process.env.GOOGLE_APPLICATION_CREDENTIALS,
 };
